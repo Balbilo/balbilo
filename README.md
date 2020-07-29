@@ -1,4 +1,8 @@
-# Balbilo <img src="./images/Balbilo.png)" width="40" height="40">
+<p align="right">
+    <img src="https://raw.githubusercontent.com/Balbilo/balbilo/master/images/Balbilo.png" width="80" height="60">
+</p>
+
+# Balbilo
 
 Balbilo is a Library with free e-books.
 
