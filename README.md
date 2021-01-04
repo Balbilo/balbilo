@@ -2,8 +2,4 @@
 
 Balbilo is a Library with free e-books.
 
-## Architecture
-![Reg-Log](images/reg-log-services.png)
-
-
-
+### User Service
