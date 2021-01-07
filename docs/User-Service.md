@@ -6,7 +6,7 @@ User Service its responsible to :
 
 * Clients will request service with Users details (Email, Full Name, Date of Birth, Password).
 * Validate Details
-* Bcrypt Password + Salt + Pepper  
+* Bcrypt Password + Salt  
 * User details will be stored to the database with (Email and Unique Generated UserID) as primary key 
   and (Full Name, DOB, Hashed Password, Salt, EmailVerified)
 * An email will be sent to the User's Email to verify email
